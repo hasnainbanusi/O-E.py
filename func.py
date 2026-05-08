@@ -1,0 +1,8 @@
+print("this file is new to github")
+
+a=20
+b=40
+
+sum=a+b
+
+print("the sum of a and b is ", sum)
