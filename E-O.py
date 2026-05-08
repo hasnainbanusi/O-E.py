@@ -8,4 +8,4 @@ else:
     print("The number is Odd")
 
 
-print("A great starter question for Python beginners is the Even or Odd Checker. It covers the basics of taking user input, using simple math (modulo), and making decisions with if-else statements")
+print("A great starter question for Python beginners is the Even or Odd Checker")
